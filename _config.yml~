@@ -11,9 +11,9 @@ pygments: true
 title : Lazy Sprite Studio
 tagline: Site Tagline
 author :
-  name : zhipeng
-  email : yjwzhp@msn.cn
-  github : yjwzhp
+  name : Name Lastname
+  email : blah@email.test
+  github : username
   twitter : username
   feedburner : feedname
 
