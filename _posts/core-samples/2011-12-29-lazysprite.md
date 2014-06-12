@@ -11,6 +11,6 @@ lazysprite团队是由一批刚刚走出校门，但是有不想淹没在城市�
 lazysprite团队，主要是一个软件服务团队，目前主要从事移动端小型游戏的开发。
 ##已有产品
 -[kill Roaches](https://github.com/yjwzhp/lazysprite)
-*
+###
 Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
 or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
