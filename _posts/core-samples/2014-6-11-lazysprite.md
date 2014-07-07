@@ -5,11 +5,26 @@ tagline: "lazysprite studio"
 tags : [intro]
 ---
 {% include JB/setup %}
-##团队简介
-lazysprite团队是由一批刚刚走出校门，但是又不想淹没在城市中的年轻人组成的团队。虽然他们现在正在起步阶段，只能蜷缩在简陋的工作室里，但是他们每个人的心里都深藏着一颗热情的不甘失败，不甘平庸的种子。
-###主要从事行业及相关工作内容
-lazysprite团队，主要是一个软件服务团队，目前主要从事移动端小型游戏的开发。
-##已有产品
+
+##产品名称
+*[kill Raoches](https://github.com/yjwzhp/lazysprite)*
+![kill Raoches](/images/killRoachesicon-512.png)
+##搜索关键词
+**kill Roaches,tap,Crazy screen ，The fierce game **
+##图片简介
+![kill Raoches](/images/IMG_0527.png)![kill Raoches](/images/IMG_0522.png)![kill Raoches](/images/IMG_0524.png)![kill Raoches](/images/IMG_0526.png)
+##已发布平台
+*[17yy](http://www.17yy.com/a/77854.html)  
+*[腾讯应用 pc](http://android.myapp.com/myapp/detail.htm?apkName=cn.lazysprite.roache)
+*[腾讯应用 移动](http://app.qq.com/#id=detail&appid=1101560752)
+*[360应用助手](http://zhushou.360.cn/detail/index/soft_id/1795726)
+[木马蚁](http://www.mumayi.com/android-637843.html?1404708924)
+[小米应用商店](http://app.mi.com/detail/64242)
+##相关简介
+*    Poke your screen, burning your passion. Rob back your bread, keep your girl.
+*    戳爆你的屏幕，燃烧你的激情。抢回你的面包，挽留你的妹子
+
+##
 -[kill Roaches](https://github.com/yjwzhp/lazysprite)
 #  
 Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
