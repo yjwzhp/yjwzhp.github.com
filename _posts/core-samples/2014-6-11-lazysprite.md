@@ -17,12 +17,12 @@ tags : [intro]
 ![kill Raoches](/images/IMG_0524.png)
 ![kill Raoches](/images/IMG_0526.png)
 ##已发布平台
-*[17yy](http://www.17yy.com/a/77854.html)  
-*[腾讯应用 pc](http://android.myapp.com/myapp/detail.htm?apkName=cn.lazysprite.roache)  
-*[腾讯应用 移动](http://app.qq.com/#id=detail&appid=1101560752)  
-*[360应用助手](http://zhushou.360.cn/detail/index/soft_id/1795726)  
-[木马蚁](http://www.mumayi.com/android-637843.html?1404708924)  
-[小米应用商店](http://app.mi.com/detail/64242)  
+*[17yy](http://www.17yy.com/a/77854.html)*  
+*[腾讯应用 pc](http://android.myapp.com/myapp/detail.htm?apkName=cn.lazysprite.roache)*  
+*[腾讯应用 移动](http://app.qq.com/#id=detail&appid=1101560752)*  
+*[360应用助手](http://zhushou.360.cn/detail/index/soft_id/1795726)*  
+*[木马蚁](http://www.mumayi.com/android-637843.html?1404708924)*  
+*[小米应用商店](http://app.mi.com/detail/64242)*  
 ##相关简介
 *    Poke your screen, burning your passion. Rob back your bread, keep your girl.
 *    戳爆你的屏幕，燃烧你的激情。抢回你的面包，挽留你的妹子
