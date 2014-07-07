@@ -7,15 +7,15 @@ tags : [intro]
 {% include JB/setup %}
 
 ##产品名称
-*[kill Raoches](https://github.com/yjwzhp/lazysprite)*
-![kill Raoches](/images/killRoachesicon-512.png)
+*[kill Raoches](https://github.com/yjwzhp/lazysprite)*  
+![kill Raoches](./images/killRoachesicon-512.png)
 ##搜索关键词
 **kill Roaches,tap,Crazy screen ，The fierce game **
 ##图片简介
-![kill Raoches](/images/IMG_0527.png)
-![kill Raoches](/images/IMG_0522.png)
-![kill Raoches](/images/IMG_0524.png)
-![kill Raoches](/images/IMG_0526.png)
+![kill Raoches](./images/IMG_0527.png)
+![kill Raoches](./images/IMG_0522.png)
+![kill Raoches](./images/IMG_0524.png)
+![kill Raoches](./images/IMG_0526.png)
 ##已发布平台
 *[17yy](http://www.17yy.com/a/77854.html)*  
 *[腾讯应用 pc](http://android.myapp.com/myapp/detail.htm?apkName=cn.lazysprite.roache)*  
