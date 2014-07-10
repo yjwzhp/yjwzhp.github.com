@@ -11,24 +11,25 @@ tags : [intro]
 <a href="https://github.com/yjwzhp/lazysprite"><img src="./images/killRoachesicon-512.png"></img></a>
 <h2>搜索关键词</h2>
 <h4>kill Roaches,tap,Crazy screen ，The fierce game </h4>
-##图片简介
-![kill Raoches](./images/IMG_0527.png)
-![kill Raoches](./images/IMG_0522.png)
-![kill Raoches](./images/IMG_0524.png)
-![kill Raoches](./images/IMG_0526.png)
-##已发布平台
-*[17yy](http://www.17yy.com/a/77854.html)*  
-*[腾讯应用 pc](http://android.myapp.com/myapp/detail.htm?apkName=cn.lazysprite.roache)*  
-*[腾讯应用 移动](http://app.qq.com/#id=detail&appid=1101560752)*  
-*[360应用助手](http://zhushou.360.cn/detail/index/soft_id/1795726)*  
-*[木马蚁](http://www.mumayi.com/android-637843.html?1404708924)*  
-*[小米应用商店](http://app.mi.com/detail/64242)*  
-##相关简介
-*    Poke your screen, burning your passion. Rob back your bread, keep your girl.
-*    戳爆你的屏幕，燃烧你的激情。抢回你的面包，挽留你的妹子
+<h2>图片简介</h2>
+<img alt="kill Raoches" src="./images/IMG_0522.png"></img>
+<img alt="kill Raoches" src="./images/IMG_0522.png"></img>
+<img alt="kill Raoches" src="./images/IMG_0522.png"></img>
+<img alt="kill Raoches" src="./images/IMG_0522.png"></img>
 
-##
--[kill Roaches](https://github.com/yjwzhp/lazysprite)  
+<h2>已发布平台</h2>
+<ul>
+<li><a alt="17yy" href="http://www.17yy.com/a/77854.html">17yy</a></li>
+<li><a alt="腾讯应用 pc" href="http://android.myapp.com/myapp/detail.htm?apkName=cn.lazysprite.roache">腾讯应用 pc</a></li>
+<li><a alt="腾讯应用 移动" href="http://app.qq.com/#id=detail&appid=1101560752">腾讯应用 移动</a></li>
+<li><a alt="360应用助手" href="http://zhushou.360.cn/detail/index/soft_id/1795726">360应用助手</a></li>
+<li><a alt="木马蚁" href="http://www.mumayi.com/android-637843.html?1404708924">木马蚁</a></li>
+<li><a alt="小米应用商店" href="http://app.mi.com/detail/64242">小米应用商店</a></li>
+</ul>
+<h2>相关简介</h2>
+<p>    Poke your screen, burning your passion. Rob back your bread, keep your girl.</p>
+<p>    戳爆你的屏幕，燃烧你的激情。抢回你的面包，挽留你的妹子</p>
+
 
 Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
 or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
